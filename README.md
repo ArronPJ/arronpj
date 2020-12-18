@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### About ArronPJ 👋
+- I'm learning DevOps related topic.
+- I love reading both fiction and nonfiction.
+- 📫 how to reach me: email in Github profile.
 <!--
 **ArronPJ/ArronPJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
